@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mauricio-porto/ponto-inteligente-api.svg?branch=master)](https://travis-ci.org/mauricio-porto/ponto-inteligente-api)
+[![Build Status](https://travis-ci.org/mauricio-porto/ponto-inteligente.svg?branch=bymyself)](https://travis-ci.org/mauricio-porto/ponto-inteligente)
 # Ponto Inteligente
 API do sistema de ponto inteligente com Java e Spring Boot.
 ### Detalhes da API RESTful
